@@ -1,0 +1,17 @@
+How to set up matlab on windows:
+
+- copy startup, matlabrc, defaults, gdefaults and addir to programFiles/matlab/toolbox/local
+(you will overwrite matlabrc)
+- set an environment variable 'HOME' (e.g. H:), which is the directory in which you store your personal matlab folder (the one with all the code)
+- as a subfolder of $HOME, make a folder 'matlab'
+- as a subfolder of 'matlab', make a folder 'common'. This is the folder where the general-purpose code is stored
+- right-click on 'common', select "checkout..."
+- set as the URL http://lccb-svn.scripps.edu/matlab/projects/common/main
+- give your username/password (this is your normal login name)
+- now you should see a long list of functions being added
+- if you need code from other projects, create a folder and check out again. Always get .../projects/$YOURPROJECTNAME/main
+
+
+check that everything went well by starting matlab. Does the reminder to get all the new files appear? Can you open a viewpanel (command: uiviewpanel)?
+
+Have fun! :-)
