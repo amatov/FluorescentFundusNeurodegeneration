@@ -1,0 +1,6 @@
+function [outputArg1,outputArg2] = compareVesselPeak(inputArg1,inputArg2)
+
+I = imread('A:\Amydis\NewDataJan2023\Cyno 200188\Cyno2_001.tif');
+Igray = Gauss2D(double(aux1),1); % filtering of high frequency background noise
+
+%Igray = Gauss2D(double(aux1),1); % filtering of high frequency background noise
