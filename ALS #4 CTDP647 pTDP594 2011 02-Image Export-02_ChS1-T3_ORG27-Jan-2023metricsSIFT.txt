@@ -1,0 +1,44 @@
+Selection based on the SIFT detector  
+(the metrics are in square microns for the area and microns for the rest) 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis  37.4     25      9 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   5.1      8      3 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis  19.9     17      6 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   1.7      6      2 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   1.7      6      2 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.1      1      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   2.5      6      3 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   4.1      7      3 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.9      4      2 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis  29.2     20      7 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis  35.4     24      9 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.0      0      0 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.6      4      1 
+----------------------------------------------------------------
+ Aggregate area | Aggregate perimeter | Length of major axis   0.7      3      1 
